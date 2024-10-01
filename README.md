@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there 🔭
+
+---
+[![](https://visitcount.itsvg.in/api?id=dcutivao&icon=6&color=1&)](https://visitcount.itsvg.in)
 
 <!--
 **dcutivao/dcutivao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
