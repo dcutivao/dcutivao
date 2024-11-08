@@ -6,7 +6,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/yeguito.gogo/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-armando-cutiva-ortiz-338407113/)
 
-## 🎖️ Badges
+## 🎖️ Badges:
 
 [<img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Cloud-Practitioner_badge.634f8a21af2e0e956ed8905a72366146ba22b74c.png" alt="Logo" width="100"/>](https://www.credly.com/badges/7858b76d-f137-4a0a-832c-0fe58398c577)
 [<img src="https://d1.awsstatic.com/certification/badges/AWS-Certified-Solutions-Architect-Associate_badge_150x150.e359ae4a6d4d82c3e31d4f9104c8d389b56a2423.png" alt="Logo" width="100"/>](https://www.credly.com/badges/a020e278-f408-4ae1-9280-703aace7731c)
@@ -24,7 +24,6 @@
 ## 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=dcutivao&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Juan-Cutiva&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dcutivao&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
