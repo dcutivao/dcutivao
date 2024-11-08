@@ -8,7 +8,8 @@
 
 ## 🎖️ Badges
 
-[![AWS Cloud Practitioner](https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Cloud-Practitioner_badge.634f8a21af2e0e956ed8905a72366146ba22b74c.png)](https://www.credly.com/badges/7858b76d-f137-4a0a-832c-0fe58398c577)
+[<img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Cloud-Practitioner_badge.634f8a21af2e0e956ed8905a72366146ba22b74c.png" alt="Logo" width="150"/>](https://www.credly.com/badges/7858b76d-f137-4a0a-832c-0fe58398c577)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=dcutivao&icon=6&color=1&)](https://visitcount.itsvg.in)
