@@ -12,20 +12,20 @@
 [<img src="https://d1.awsstatic.com/certification/badges/AWS-Certified-Solutions-Architect-Associate_badge_150x150.e359ae4a6d4d82c3e31d4f9104c8d389b56a2423.png" alt="Logo" width="100"/>](https://www.credly.com/badges/a020e278-f408-4ae1-9280-703aace7731c)
 [<img src="https://d1.awsstatic.com/certification/badges/AWS-Certified-Developer-Associate_badge_150x150.a8973e238efb2d1b0b24f5282e1ad87eb554e6ef.png" alt="Logo" width="100"/>](https://cp.certmetrics.com/amazon/es-419/public/verify/credential/277944dd8c4841438d4daafae1e17679)
 
+## 💻 Tech Stack:
+![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat-square&logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-%23623CE4.svg?style=flat-square&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) 
+
+## 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=dcutivao&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Juan-Cutiva&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dcutivao&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=dcutivao&icon=6&color=1&)](https://visitcount.itsvg.in)
-
-<!--
-**dcutivao/dcutivao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
