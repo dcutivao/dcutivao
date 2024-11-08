@@ -1,4 +1,6 @@
-## Hi there 🔭
+# 🧘🏾‍♂️ Sobre Mi:
+
+👨🏽‍🎓 Soy Ingeniero en Telecomunicaciones. <br>👨🏽‍💻 Tengo mas de 9 años trabajando en el sector de TI tanto On-Premise como Cloud(AWS). <br>🛜 Me gusta los temas de relacionados con hacking y conectividad <br>🏋🏽 Me encuentro fortaleciendo mi conocimiento en los lenguajes de programación Python y Terraform. <br>🛠️ Me gusta trabajar en equipo.<br>🚀 Decubri un gusto por la lectura y el deporte.
 
 ---
 [![](https://visitcount.itsvg.in/api?id=dcutivao&icon=6&color=1&)](https://visitcount.itsvg.in)
